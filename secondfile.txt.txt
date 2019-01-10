@@ -1,1 +1,3 @@
 This is my second file
+
+Added some content in second file
